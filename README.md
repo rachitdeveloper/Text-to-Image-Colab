@@ -12,7 +12,7 @@
 
 | Colab | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19DjalGMmmMXhigsJ7hl-B8Gg9QEShzRI?usp=sharing) | Text-to-Image-Colabi (Free colab 🙂)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/19DjalGMmmMXhigsJ7hl-B8Gg9QEShzRI?usp=sharing) | Text-to-Image-Colab (Free colab 🙂)
 
 ### 🏢 Sponsor
 (No one 🙂)
